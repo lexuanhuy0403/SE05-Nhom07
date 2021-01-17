@@ -1,0 +1,35 @@
+*3D PRINTING FILAMENT
+3D printing filament is the thermoplastic feedstock for fused deposition modeling 3D printers. There are many types of filament available with different properties, requiring different temperatures to print.
+[1] Filament is commonly available in the two standard diameters of 1.75 mm and 2.85 mm.[2] 2.85 mm filament is sometimes erronously referred to as "3 mm", but should not be confused with the less common filament
+size that actually measures 3 mm in diameter.[3]Filament size should not be confused with the nozzle size, and several different combinations of nozzle and filament sizes may be used. One of the most common nozzle 
+sizes is 0.4 mm, while examples of other common sizes includes 0.35 mm and 0.25 mm.[4]
+
+*Production
+-Commercially produced filament
+Stacks of commercially produced filament which have been shrink-wrapped to protect the filament from moisture. 3D printing filament is created using a process of heating, extruding and cooling plastic to 
+transform nurdles into the finished product. Unlike a 3D printer the filament is pulled rather than pushed through the nozzle to create the filament, the diameter of the filament is defined by the process 
+that takes place after the plastic has been heated rather than the diameter of the extruder nozzle. A different force and speed is applied to the filament as it is pulled out of the extruder to define the
+width of the filament, most commonly 1.75 mm or 2.85 mm diameter.[5][6] The plastic nurdles are always white or clear. Pigments or other additives are added to the material before it is melted to create coloured
+filament or filament with special properties, e.g. increased strength or magnetic properties. Before the filament is extruded the nurdles are heated to 80°C to dry it and reduce water content.
+ The nurdles must be dried as many thermoplastics are hygroscopic and extrusion of damp plastic causes dimensional flaws (this is also the case when the finished filament is being printed[7]). 
+From there the nurdles are fed into a single screw extruder where it is heated and extruded into a filament.[5] The diameter is often measured by a laser as part of a quality control mechanism 
+to ensure correct diameter of the filament. The filament is then fed through a warm water tank which cools the filament which gives the filament its round shape. The filament is then fed through
+ a cold water tank to cool it to room temperature. It is then wound onto a spool to create the finished product.[5]
+
+-DIY filament production
+DIY filament production machines use the same method as FDM 3D printers of pushing the filament through the extruder to create the correct diameter filament. There are several DIY filament machines 
+available as both open source plans and commercially available machines, includuing Recyclebots of various design, Filastruder and Multistruder.[8] A food dehydrator can be used to remove water from hygroscopic
+materials at above 70 °C
+
+*Use
+
+The process of turning 3D printing filament into a 3D model
+Main article: Fused deposition modeling
+The process of transforming 3D printing filament into a 3D model
+
+   1.The filament is fed into the FDM 3D printer.
+   2.The thermoplastic is heated past their glass transition temperature inside the hotend.
+   3.The filament is extruded and deposited by an extrusion head onto a build platform where it cools.
+   4.The process is continuous, building up layers to create the model.
+
+
